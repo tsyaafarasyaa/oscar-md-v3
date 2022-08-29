@@ -166,13 +166,13 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    conn.sendButton(m.chat, text.trim(), 'Made with ♡ by ࿐ᴹʳ 𝐉𝐚𝐫𝐨𝐭 𝐎𝐟𝐟𝐜 ࿐', null, [['Donasi', '.donasi'],['Owner', '.owner']], m)
+    conn.sendButton(m.chat, text.trim(), 'Made with ♡ by 𝐓𝐚𝐬𝐲𝐚𝐚', null, [['Donasi', '.donasi'],['Owner', '.owner']], m)
     /*conn.sendHydrated(m.chat, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', 'Website', '', '', [
       ['Donate', '/donasi'],
       ['Sewa Bot', '/sewa'],
       ['Owner', '/owner']
     ], m)*/
-    /*let url = `https://telegra.ph/file/ab1df70dfd5c2bac64da1.jpg`.trim()
+    /*let url = `https://telegra.ph/file/c58ccc276c39701a5ca2d.jpg`.trim()
     let res = await fetch(url)
     let buffer = await res.buffer()
     let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUploadToServer })
@@ -184,8 +184,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedFooterText:'Ⓟ premium | Ⓛ limit',
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: '【𝙔𝙤𝙪𝙩𝙪𝙗𝙚⛽】',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    displayText: '【⛽】', 
+                                    url: 'https://chat.whatsapp.com/IL34QSFDRT7LyAWiicXpBp'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -215,6 +215,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 handler.help = ['menu2']
 handler.tags = ['main']
 handler.command = /^(menu2|allmenu2|\?)$/i
+handler.group = true
 
 handler.exp = 3
 
