@@ -62,7 +62,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  after: `*Made by ♡*
+  after: `*Made by 𝐓𝐚𝐬𝐲𝐚𝐚*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -179,17 +179,17 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'                『 𝑱𝑨𝑹𝑶𝑻 𝑶𝑭𝑭𝑪 』',
+                            hydratedFooterText:'                『 𝒁 𝑬 𝑹 𝑶 』',
                             hydratedButtons: [{
                               urlButton: {
                                     displayText: '𝙂𝙧𝙤𝙪𝙥 🌏',
-                                    url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+                                    url: 'https://chat.whatsapp.com/IL34QSFDRT7LyAWiicXpBp'
                                 }
                                 
                             }, {
                               urlButton: {
-                                    displayText: '𝙔𝙤𝙪𝙏𝙪𝙗𝙚 📺',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    displayText: 'Qriss 💳',
+                                    url: 'https://tinyurl.com/2el4odke'
                                 }
                             }, {
                                 quickReplyButton: {
