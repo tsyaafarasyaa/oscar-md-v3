@@ -55,8 +55,8 @@ const defaultMenu = {
 ┆⬡ *Limit* : Ⓛ 
 ┆⬡ *Premium* : Ⓟ
 ┆⬡ *Uptime:* : %uptime (%muptime)
-┆⬡ *Run Bot* : Okteto/heroku
-┆⬡ *Ig Owner* : instagram.com/oscarbotz_
+┆⬡ *Run Bot* : Panel
+┆⬡ *Group Owner* : https://chat.whatsapp.com/IL34QSFDRT7LyAWiicXpBp
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
