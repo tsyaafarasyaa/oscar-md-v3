@@ -12,18 +12,18 @@ let jarot = `
             hydratedTemplate: {
                 hydratedContentText: jarot,
                 imageMessage: message.imageMessage, 
-           hydratedFooterText: '📮Note : HALO KAK SAYA OSCARBOTZ, JIKA KAMU MENGGUNAKAN WA LAMA ATAU WA MOD, DAN BUTTON TIDAK KELIATAN, LANGSUNG AJA KETIK .allmenu',
+           hydratedFooterText: '📮Note : HALO KAK SAYA 𝒁 𝑬 𝑹 𝑶 𝑴𝑫, JIKA KAMU MENGGUNAKAN WA LAMA ATAU WA MOD, DAN BUTTON TIDAK KELIATAN, LANGSUNG AJA KETIK .allmenu',
            hydratedButtons: [{
              urlButton: {
                displayText: '🔮𝙂𝙧𝙤𝙪𝙥𝘽𝙤𝙩🔮',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/IL34QSFDRT7LyAWiicXpBp'
              }
 
            },
                 {
                urlButton: {
-               displayText: '🐻𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘾𝙧𝙚𝙖𝙩𝙤𝙧🐻',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '🐻𝙂𝙧𝙤𝙪𝙥𝘽𝙤𝙩²🐻',
+               url: 'https://chat.whatsapp.com/CXTWVx3Dny7JkVUZ975NFa'
              }
 
            },
