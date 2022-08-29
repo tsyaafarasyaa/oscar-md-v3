@@ -19,5 +19,6 @@ Powered By @${`${global.owner[0]}`.split('@')[0]}`, 'Pemilik Bot', '#owner')
 handler.help = ['sourcecode']
 handler.tags = ['info']
 handler.command = /^(sourcecode|sc|scbot|script|github)$/i
+handler.group = true
 
 module.exports = handler
