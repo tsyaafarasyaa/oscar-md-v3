@@ -17,22 +17,22 @@ let jarot = `
            hydratedFooterText: '',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Youtube creator📨',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: 'Grouo Creator📨',
+               url: 'https://chat.whatsapp.com/IL34QSFDRT7LyAWiicXpBp'
              }
 
            },
                 {
                urlButton: {
-               displayText: 'Instagram creator🔥',
-               url: 'https://instagram.com/Jarotr_'
+               displayText: 'Group JB creator🔥',
+               url: 'https://chat.whatsapp.com/CXTWVx3Dny7JkVUZ975NFa'
              }
 
            },
                {
 urlButton: {
-               displayText: 'Group Bot Creator📸',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               displayText: 'Wajah Creator📸🗿',
+               url: 'Chat Owner 🗿'
              }
 
            },
